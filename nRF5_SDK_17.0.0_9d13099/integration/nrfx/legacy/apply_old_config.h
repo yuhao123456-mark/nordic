@@ -764,6 +764,7 @@
 //------------------------------------------------------------------------------
 // SAADC
 
+
 #if defined(SAADC_ENABLED)
 
 #undef NRFX_SAADC_ENABLED

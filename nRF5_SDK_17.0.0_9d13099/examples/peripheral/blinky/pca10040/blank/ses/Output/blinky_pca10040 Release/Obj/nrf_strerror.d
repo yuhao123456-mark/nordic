@@ -1,5 +1,5 @@
 Output/blinky_pca10040\ Release/Obj/nrf_strerror.o: \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\components\libraries\strerror\nrf_strerror.c \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\components\libraries\strerror\nrf_strerror.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/stdbool.h \
@@ -27,5 +27,5 @@ Output/blinky_pca10040\ Release/Obj/nrf_strerror.o: \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\components\libraries\strerror\nrf_strerror.h \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\components\libraries\strerror\nrf_strerror.h \
  ../../../../../../components/libraries/util/sdk_errors.h

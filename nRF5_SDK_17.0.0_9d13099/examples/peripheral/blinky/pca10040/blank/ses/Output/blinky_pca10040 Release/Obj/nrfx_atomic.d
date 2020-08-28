@@ -1,6 +1,6 @@
 Output/blinky_pca10040\ Release/Obj/nrfx_atomic.o: \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\modules\nrfx\soc\nrfx_atomic.c \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\modules\nrfx\soc\nrfx_atomic.h \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\modules\nrfx\soc\nrfx_atomic.c \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\modules\nrfx\soc\nrfx_atomic.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
@@ -43,4 +43,4 @@ Output/blinky_pca10040\ Release/Obj/nrfx_atomic.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/util/sdk_resources.h \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\modules\nrfx\soc\nrfx_atomic_internal.h
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\modules\nrfx\soc\nrfx_atomic_internal.h

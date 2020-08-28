@@ -1,6 +1,6 @@
 Output/blinky_pca10040\ Release/Obj/app_error_weak.o: \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\components\libraries\util\app_error_weak.c \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\components\libraries\util\app_error.h \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\components\libraries\util\app_error_weak.c \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\components\libraries\util\app_error.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/stdio.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/__crossworks.h \
@@ -17,10 +17,10 @@ Output/blinky_pca10040\ Release/Obj/app_error_weak.o: \
  ../../../../../../modules/nrfx/mdk/nrf51_to_nrf52.h \
  ../../../../../../modules/nrfx/mdk/nrf52_name_change.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\components\libraries\util\sdk_errors.h \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\components\libraries\util\sdk_errors.h \
  ../../../../../../components/drivers_nrf/nrf_soc_nosd/nrf_error.h \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\components\libraries\util\nordic_common.h \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\components\libraries\util\app_error_weak.h \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\components\libraries\util\nordic_common.h \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\components\libraries\util\app_error_weak.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/string.h \
@@ -44,6 +44,6 @@ Output/blinky_pca10040\ Release/Obj/app_error_weak.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\components\libraries\util\app_util_platform.h \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\components\libraries\util\nrf_assert.h \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\components\libraries\util\app_util_platform.h \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\components\libraries\util\nrf_assert.h \
  ../../../../../../components/libraries/strerror/nrf_strerror.h

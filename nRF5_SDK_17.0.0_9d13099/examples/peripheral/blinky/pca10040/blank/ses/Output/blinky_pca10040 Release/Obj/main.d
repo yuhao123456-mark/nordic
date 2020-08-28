@@ -1,5 +1,5 @@
 Output/blinky_pca10040\ Release/Obj/main.o: \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\examples\peripheral\blinky\main.c \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\examples\peripheral\blinky\main.c \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/stdint.h \
  ../../../../../../components/libraries/delay/nrf_delay.h \
@@ -45,4 +45,35 @@ Output/blinky_pca10040\ Release/Obj/main.o: \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
  ../../../../../../components/boards/boards.h \
  ../../../../../../modules/nrfx/hal/nrf_gpio.h \
- ../../../../../../components/boards/pca10040.h
+ ../../../../../../components/boards/pca10040.h \
+ ../../../../../../components/libraries/util/app_error.h \
+ ../../../../../../components/libraries/log/nrf_log.h \
+ ../../../../../../components/libraries/util/sdk_common.h \
+ C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/string.h \
+ ../../../../../../components/libraries/util/sdk_os.h \
+ ../../../../../../components/libraries/util/app_util.h \
+ ../../../../../../components/libraries/util/sdk_macros.h \
+ ../../../../../../components/libraries/experimental_section_vars/nrf_section.h \
+ ../../../../../../components/libraries/log/src/nrf_log_internal.h \
+ ../../../../../../components/libraries/log/nrf_log_instance.h \
+ ../../../../../../components/libraries/log/nrf_log_types.h \
+ ../../../../../../components/libraries/log/nrf_log_types.h \
+ ../../../../../../components/libraries/log/nrf_log_ctrl.h \
+ ../../../../../../components/libraries/log/src/nrf_log_ctrl_internal.h \
+ ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
+ ../../../../../../components/libraries/log/nrf_log_default_backends.h \
+ ../../../../../../modules/nrfx/hal/nrf_saadc.h \
+ C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/integration/nrfx/legacy/nrf_drv_saadc.h \
+ C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/modules/nrfx/drivers/include/nrfx_saadc.h \
+ ../../../../../../modules/nrfx/hal/nrf_saadc.h \
+ C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/integration/nrfx/legacy/nrf_drv_gpiote.h \
+ C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/modules/nrfx/drivers/include/nrfx_gpiote.h \
+ ../../../../../../modules/nrfx/hal/nrf_gpiote.h \
+ ../../../../../../modules/nrfx/hal/nrf_gpio.h \
+ C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/components/drivers_nrf/twi_master/deprecated/twi_master.h \
+ C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/external/segger_rtt/SEGGER_RTT.h \
+ C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/external/segger_rtt/SEGGER_RTT_Conf.h \
+ C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/integration/nrfx/legacy/nrf_drv_timer.h \
+ C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/modules/nrfx/drivers/include/nrfx_timer.h \
+ ../../../../../../modules/nrfx/hal/nrf_timer.h \
+ ../../../../../../modules/nrfx/hal/nrf_ppi.h

@@ -1,5 +1,5 @@
 Output/blinky_pca10040\ Release/Obj/nrf_fprintf_format.o: \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\external\fprintf\nrf_fprintf_format.c \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\external\fprintf\nrf_fprintf_format.c \
  ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/stdbool.h \
@@ -29,5 +29,5 @@ Output/blinky_pca10040\ Release/Obj/nrf_fprintf_format.o: \
  ../../../../../../components/libraries/util/nrf_assert.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52/include/stdarg.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\external\fprintf\nrf_fprintf.h \
- C:\Users\user\Desktop\nRF5_SDK_17.0.0_9d13099\nRF5_SDK_17.0.0_9d13099\external\fprintf\nrf_fprintf_format.h
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\external\fprintf\nrf_fprintf.h \
+ C:\Users\user\Desktop\ling\nordic\nRF5_SDK_17.0.0_9d13099\external\fprintf\nrf_fprintf_format.h

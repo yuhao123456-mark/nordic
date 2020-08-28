@@ -82,6 +82,7 @@ bool twi_master_init(void)
     TWI_SDA_STANDARD0_NODRIVE1(); /*lint !e416 "Creation of out of bounds pointer" */
     TWI_SCL_STANDARD0_NODRIVE1(); /*lint !e416 "Creation of out of bounds pointer" */
 
+    SEGGER_RTT_printf(0,"\n1\n");
     // Configure SCL as output
     TWI_SCL_HIGH();
     TWI_SCL_OUTPUT();

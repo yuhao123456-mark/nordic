@@ -1,7 +1,64 @@
 <!DOCTYPE CrossStudio_Session_File>
 <session>
-  <ARMCrossStudioWindow activeProject="saadc_pca10040" buildConfiguration="Release"/>
-  <Files>
-    <SessionOpenFile codecName="Default" debugPath="../../../main.c" left="0" name="unnamed" path="../../../main.c" selected="1" top="0" useBinaryEdit="0" useTextEdit="1" x="0" y="0"/>
-  </Files>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="saadc_pca10040"/>
+  <ProjectSessionItem path="saadc_pca10040;saadc_pca10040"/>
+  <ProjectSessionItem path="saadc_pca10040;saadc_pca10040;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="saadc_pca10040;saadc_pca10040;nRF_Log"/>
+  <ProjectSessionItem path="saadc_pca10040;saadc_pca10040;nRF_Libraries"/>
+  <ProjectSessionItem path="saadc_pca10040;saadc_pca10040;nRF_Drivers"/>
+  <ProjectSessionItem path="saadc_pca10040;saadc_pca10040;None"/>
+  <ProjectSessionItem path="saadc_pca10040;saadc_pca10040;Board Definition"/>
+  <ProjectSessionItem path="saadc_pca10040;saadc_pca10040;Application"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="20" y="73" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="48" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="28" y="58" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/examples/peripheral/saadc/main.c" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_timer.h" selected="0" top="47" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="47" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/examples/peripheral/saadc/main.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_saadc.h" selected="0" top="78" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="51" y="93" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/examples/peripheral/saadc/main.c" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_saadc.h" selected="0" top="73" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="65" y="68" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/integration/nrfx/legacy/nrf_drv_saadc.h" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/include/nrfx_saadc.h" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="6" y="1077" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/modules/nrfx/drivers/include/nrfx_timer.h" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/apply_old_config.h" selected="0" top="1018" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="26" y="46" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/modules/nrfx/drivers/include/nrfx_saadc.h" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/nrfx.h" selected="0" top="27" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="44" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/modules/nrfx/nrfx.h" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/nrfx_config.h" selected="0" top="21" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="343" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/integration/nrfx/nrfx_config.h" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="1" top="315" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="56" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/modules/nrfx/nrfx.h" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/nrfx_glue.h" selected="0" top="39" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="11" y="289" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/integration/nrfx/legacy/nrf_drv_saadc.h" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_saadc.c" selected="0" top="269" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="44" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/examples/peripheral/saadc/main.c" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_ppi.c" selected="0" top="23" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="50" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/integration/nrfx/legacy/nrf_drv_timer.h" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_timer.c" selected="0" top="24" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="94" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/examples/peripheral/saadc/main.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_ppi.h" selected="0" top="74" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="109" useTextEdit="1" openedFrom="C:/Users/user/Desktop/ling/nordic/nRF5_SDK_17.0.0_9d13099/modules/nrfx/drivers/src/nrfx_timer.c" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/include/nrfx_timer.h" selected="0" top="89" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="saadc_pca10040" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
